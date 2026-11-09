@@ -7,3 +7,4 @@ appsettings.Development.json
 *.user
 *.log
 .env
+.credentials
